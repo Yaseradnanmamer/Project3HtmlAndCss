@@ -1207,6 +1207,7 @@ a {
     border: 2px solid #ffffff;
     align-items: center;
     box-shadow: -1px 0px 9px 0px #b1adad;
+    border: 1px solid #777;
     border-radius: 8px;
     position: relative;
     z-index: 1;
@@ -1245,6 +1246,10 @@ a {
 
 /* satrt responsive */
 @media (max-width:992px) {
+    .Works .container {
+        gap: 0;
+    }
+
     .Works .container .image {
         width: 0;
     }
