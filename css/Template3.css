@@ -352,7 +352,7 @@ a {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #f0e6e6;
+    background-color: #d4ffff;
     z-index: -1;
     transform: skewY(-5deg);
     transform-origin: left top;
